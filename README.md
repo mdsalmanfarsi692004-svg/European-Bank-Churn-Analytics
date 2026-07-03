@@ -1,4 +1,4 @@
-# 🏦 European Banking: Customer Churn Analytics
+# 🏦 European Banking: Customer Churn Analytics 🏦
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-red.svg)
