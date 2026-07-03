@@ -12,7 +12,7 @@ An enterprise-grade data analytics project designed to identify customer retenti
 ## 🖥️ Dashboard Preview
 *(A comprehensive view of the interactive Streamlit dashboard featuring custom dark-theme UI and live KPIs)*
 
-![Bank Churn Dashboard](<img width="1901" height="1078" alt="Dashboard" src="https://github.com/user-attachments/assets/25eb14bc-fe67-4aca-96a4-95b9da0af967" />)
+(<img width="1901" height="1078" alt="Dashboard" src="https://github.com/user-attachments/assets/25eb14bc-fe67-4aca-96a4-95b9da0af967" />)
 
 ---
 
