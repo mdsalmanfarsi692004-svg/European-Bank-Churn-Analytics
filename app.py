@@ -92,7 +92,7 @@ except FileNotFoundError:
     st.sidebar.warning("Report PDF not found in folder.")
 
 # --- MAIN DASHBOARD INTERFACE ---
-st.title("🏦 European Banking: Customer Churn Analytics")
+st.title("🏦 European Banking: Customer Churn Analytics 🏦")
 st.markdown("<p style='text-align: center; color: #A0A0B0;'>Segmentation-driven insights to design targeted retention strategies.</p>", unsafe_allow_html=True)
 st.markdown("---")
 
