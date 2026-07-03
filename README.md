@@ -44,6 +44,14 @@ Customer churn represents one of the largest hidden costs in retail banking. Thi
 
 3. **Wealth Flight 💰** Premium customers (top 50% account balances) churned at a disproportionately higher rate (**24.16%**) compared to zero-balance accounts, representing a significant threat to institutional liquidity.
 
+## 📂 Data Dictionary
+| Column Name | Description |
+| :--- | :--- |
+| **CreditScore** | Customer's creditworthiness score. |
+| **Geography** | Country of the customer (France, Germany, Spain). |
+| **Balance** | Current account balance. |
+| **Exited** | Target variable (1=Churned, 0=Retained). |
+
 ## 🚀 How to Run Locally
 
 1. **Clone the repository:**
