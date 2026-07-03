@@ -12,12 +12,13 @@ An enterprise-grade data analytics project designed to identify customer retenti
 ## 🖥️ Dashboard Preview
 *(A comprehensive view of the interactive Streamlit dashboard featuring custom dark-theme UI and live KPIs)*
 
-![Bank Churn Dashboard](dashboard.png)
+![Bank Churn Dashboard](<img width="1901" height="1078" alt="Dashboard" src="https://github.com/user-attachments/assets/eeb3da92-d903-4333-81d4-716deb795412" />
+)
 
 ---
 
 ## 🔗 Live Links
-* **🔴 Live Streamlit Dashboard:** [Add your deployed app link here]
+* **🔴 Live Streamlit Dashboard:** [https://european-bank-churn.streamlit.app/]
 * **🎥 Project Demo Video:** [Add your YouTube/Loom video link here]
 * **📄 Executive Research Report:** [View the PDF Report](European_Bank_Churn_Report.pdf)
 
