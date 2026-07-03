@@ -75,6 +75,6 @@ Developed by **Md Salman Farsi** during the Machine Learning Internship at Unifi
 ### 📬 Get in Touch
 Feel free to connect with me for collaboration or queries!
 
-- **LinkedIn:** [Click here to connect with me!](https://www.linkedin.com/in/md-salman-farsi/)
+- **LinkedIn:** [Click here to connect with me](https://www.linkedin.com/in/md-salman-farsi/)
 - **Email:** [Send me an email](mailto:mdsalmanfarsi692004@gmail.com)
-- **Portfolio:** [Check out my work](https://mdsalmanfarsi.io/)
+- **Portfolio:** [Check out my work](https://mdsalmanfarsi692004-svg.github.io/portfolio/)
