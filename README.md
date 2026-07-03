@@ -19,7 +19,7 @@ An enterprise-grade data analytics project designed to identify customer retenti
 ## 🔗 Live Links
 * **🔴 Live Streamlit Dashboard:** https://european-bank-churn.streamlit.app/
 * **🎥 Project Demo Video:** [Add your YouTube/Loom video link here]
-* **📄 Executive Research Report:** [View the PDF Report](European_Bank_Churn_Report.pdf)
+* **📄 Executive Research Report:** [View the PDF Report](https://drive.google.com/file/d/1HSPnabJZX2wUvM3N3a2DApxGZQnQmDCe/view?usp=sharing)
 
 ## 📌 Project Overview
 Customer churn represents one of the largest hidden costs in retail banking. This project bridges the gap between raw customer behavioral data and strategic policy formulation. Using a dataset of 10,000 proprietary retail banking profiles across France, Germany, and Spain, this project delivers actionable insights into churn patterns across geography, demographics, and financial profiles.
