@@ -70,4 +70,6 @@ Customer churn represents one of the largest hidden costs in retail banking. Thi
    ```
 
 ## 👨‍💻 About the Author
-Developed by **Md Salman Farsi** during the Machine Learning Internship at Unified Mentor. Connect with me on [LinkedIn](#).
+Developed by **Md Salman Farsi** during the Machine Learning Internship at Unified Mentor. 
+
+Connect with me on [LinkedIn](www.linkedin.com/in/md-salman-farsi-data-analyst).
