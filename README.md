@@ -18,7 +18,7 @@ An enterprise-grade data analytics project designed to identify customer retenti
 
 ## 🔗 Live Links
 * **🔴 Live Streamlit Dashboard:** https://european-bank-churn.streamlit.app/
-* **🎥 Project Demo Video:** https://drive.google.com/file/d/1q8plx1vr3o2pwqOryjNUL7ssc3i3jvq0/view?usp=sharing
+* **🎥 Project Demo Video:** [View the Demo Video](https://drive.google.com/file/d/1q8plx1vr3o2pwqOryjNUL7ssc3i3jvq0/view?usp=sharing)
 * **📄 Executive Research Report:** [View the PDF Report](https://drive.google.com/file/d/1HSPnabJZX2wUvM3N3a2DApxGZQnQmDCe/view?usp=sharing)
 
 ## 📌 Project Overview
